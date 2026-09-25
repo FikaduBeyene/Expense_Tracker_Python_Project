@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The **Expense_Tracker_Python_Project** is a rules-based expense tracking and financial analysis system built in Python. It organizes income and expenses, enforces budget limits, identifies overspending patterns, and produces clear, audit-ready financial insights. The project is designed for trucking operations, small businesses, or personal finance use cases.
+The **Expense Tracker Python Project** is a rules-based expense tracking and financial analysis system built in Python. It organizes income and expenses, enforces budget limits, identifies overspending patterns, and produces clear, audit-ready financial insights. The project is designed for trucking operations, small businesses, or personal finance use cases.
 
 This capstone project intentionally combines finance and accounting concepts (budgeting, variance analysis, efficiency metrics) with data analytics and Python programming skills in a modular, explainable system.
 
