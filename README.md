@@ -1,4 +1,4 @@
-# Expense_Tracker_Python_Project
+# Expense Tracker Python Project
 
 ## Project Description
 
